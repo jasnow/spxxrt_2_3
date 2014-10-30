@@ -1,12 +1,12 @@
 source 'https://rubygems.org'
 
-gem 'rails', '4.2.0.beta2'
+gem 'rails', '4.2.0.beta3'
 ruby '2.1.4'
 
 gem 'sass-rails', '~> 5.0.0.beta1'
 gem 'uglifier'
 gem 'coffee-rails'
-gem 'jquery-rails', '~> 4.0.0.beta2'
+gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
 gem 'rails-html-sanitizer'
