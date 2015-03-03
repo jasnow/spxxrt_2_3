@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'rails', '4.2.1.rc3'
+gem 'rails',      :git => 'git://github.com/rails/rails.git'       # Needed for Rails 5.0
+gem 'arel',       :git => 'git://github.com/rails/arel.git'        # Needed for Rails 5.0
+gem 'turbolinks', :git => 'git://github.com/rails/turbolinks.git'  # Needed for Rails 5.0
 
 ruby '2.2.0'
 
@@ -8,7 +10,6 @@ gem 'sass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
 gem 'jquery-rails'
-gem 'turbolinks'
 gem 'jbuilder'
 gem 'rails-html-sanitizer'
 gem 'sdoc', group: :doc
