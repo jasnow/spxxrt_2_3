@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 387e7be458338db110f8a1ceeaf5952b39133a08
+  revision: ba8ce39877cbe62522ddecd2965edcd9c6304adf
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -62,7 +62,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/turbolinks.git
-  revision: ee8797d3b31ea7150eaf44685d5e9f4b12e955cd
+  revision: 03bcd4baa8e3b60252af7f5f0bbbd4e39664de79
   specs:
     turbolinks (3.0.0)
       coffee-rails
@@ -113,7 +113,7 @@ GEM
     hike (1.2.3)
     hitimes (1.2.2)
     i18n (0.7.0)
-    jbuilder (2.2.10)
+    jbuilder (2.2.11)
       activesupport (>= 3.0.0, < 5)
       multi_json (~> 1.2)
     jquery-rails (4.0.3)
@@ -121,7 +121,7 @@ GEM
       railties (>= 4.2.0)
       thor (>= 0.14, < 2.0)
     json (1.8.2)
-    listen (2.8.5)
+    listen (2.8.6)
       celluloid (>= 0.15.2)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
