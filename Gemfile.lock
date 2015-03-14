@@ -222,6 +222,7 @@ DEPENDENCIES
   arel!
   byebug
   coffee-rails
+  ffi (= 1.9.6)
   guard
   guard-minitest
   jbuilder
