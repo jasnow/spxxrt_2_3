@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
 gem 'rails',      :git => 'git://github.com/rails/rails.git'       # Needed for Rails 5.0
-gem 'ffi', '1.9.6'
 gem 'arel',       :git => 'git://github.com/rails/arel.git'        # Needed for Rails 5.0
 gem 'turbolinks', :git => 'git://github.com/rails/turbolinks.git'  # Needed for Rails 5.0
 
