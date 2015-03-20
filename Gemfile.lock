@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 4e7217027f1933d5860ba459b3d23f454272f709
+  revision: 9e80c29cd5f82359730e7e7474c24b8ab844549d
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -20,13 +20,13 @@ GIT
       rack (~> 1.6)
       rack-test (~> 0.6.3)
       rails-dom-testing (~> 1.0, >= 1.0.5)
-      rails-html-sanitizer (~> 1.0, >= 1.0.1)
+      rails-html-sanitizer (~> 1.0, >= 1.0.2)
     actionview (5.0.0.alpha)
       activesupport (= 5.0.0.alpha)
       builder (~> 3.1)
       erubis (~> 2.7.0)
       rails-dom-testing (~> 1.0, >= 1.0.5)
-      rails-html-sanitizer (~> 1.0, >= 1.0.1)
+      rails-html-sanitizer (~> 1.0, >= 1.0.2)
     activejob (5.0.0.alpha)
       activesupport (= 5.0.0.alpha)
       globalid (>= 0.3.0)
@@ -57,6 +57,7 @@ GIT
     railties (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
       activesupport (= 5.0.0.alpha)
+      method_source
       rake (>= 0.8.7)
       thor (>= 0.18.1, < 2.0)
 
@@ -110,7 +111,7 @@ GEM
     hike (1.2.3)
     hitimes (1.2.2)
     i18n (0.7.0)
-    jbuilder (2.2.11)
+    jbuilder (2.2.12)
       activesupport (>= 3.0.0, < 5)
       multi_json (~> 1.2)
     jquery-rails (4.0.3)
