@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 8b451e3a315666b93da43e7b61503014661f0ac6
+  revision: 8798788c65b0603caf4b55fe7e961e99f2ea4bde
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -63,7 +63,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/turbolinks.git
-  revision: c745dea269b9bae39146cb7f5ea52328fbca7ce8
+  revision: 06c33ceddd3e8f0fb0cc91ff1c475f049bc90ea3
   specs:
     turbolinks (3.0.0)
       coffee-rails
@@ -75,7 +75,7 @@ GEM
     binding_of_caller (0.7.2)
       debug_inspector (>= 0.0.1)
     builder (3.2.2)
-    byebug (4.0.3)
+    byebug (4.0.4)
       columnize (= 0.9.0)
     celluloid (0.16.0)
       timers (~> 4.0.0)
