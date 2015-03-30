@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 8798788c65b0603caf4b55fe7e961e99f2ea4bde
+  revision: e2a96c071216d14659294a5a7645878656c30916
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -63,7 +63,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/turbolinks.git
-  revision: 06c33ceddd3e8f0fb0cc91ff1c475f049bc90ea3
+  revision: b8d43ac4822ece77361a8e7f3309fc3f3ab13e55
   specs:
     turbolinks (3.0.0)
       coffee-rails
@@ -175,7 +175,7 @@ GEM
     rdoc (4.2.0)
     ruby-progressbar (1.7.5)
     sass (3.4.13)
-    sass-rails (5.0.1)
+    sass-rails (5.0.2)
       railties (>= 4.0.0, < 5.0)
       sass (~> 3.1)
       sprockets (>= 2.8, < 4.0)
