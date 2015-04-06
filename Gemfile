@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'rails',      :git => 'git://github.com/rails/rails.git'       # Needed for Rails 5.0
-gem 'arel',       :git => 'git://github.com/rails/arel.git'        # Needed for Rails 5.0
-gem 'turbolinks', :git => 'git://github.com/rails/turbolinks.git'  # Needed for Rails 5.0
+gem 'rails',       :git => 'git://github.com/rails/rails.git'       # Needed for Rails 5.0
+gem 'arel',        :git => 'git://github.com/rails/arel.git'        # Needed for Rails 5.0
+gem 'turbolinks',  :git => 'git://github.com/rails/turbolinks.git'  # Needed for Rails 5.0
 
 ruby '2.2.1'
 
@@ -17,7 +17,7 @@ gem 'sdoc', group: :doc
 group :development, :test do
   gem 'sqlite3'
   gem 'byebug'
-  gem 'web-console'
+  gem 'web-console', :git => 'git://github.com/rails/web-console.git' # Needed for Rails 5.0
   gem 'spring'
 end
 
