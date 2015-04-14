@@ -4,7 +4,7 @@ gem 'rails',       :git => 'git://github.com/rails/rails.git'       # Needed for
 gem 'arel',        :git => 'git://github.com/rails/arel.git'        # Needed for Rails 5.0
 gem 'turbolinks',  :git => 'git://github.com/rails/turbolinks.git'  # Needed for Rails 5.0
 
-ruby '2.2.1'
+ruby '2.2.2'
 
 gem 'sass-rails'
 gem 'uglifier'
