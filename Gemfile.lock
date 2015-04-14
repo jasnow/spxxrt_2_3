@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: fcd8e6270833b2e8a8e1417ad67f774a08579d54
+  revision: 7d4a1ab9eef66879b52fbc1779a6056b3e880589
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -196,7 +196,7 @@ GEM
     shellany (0.0.1)
     slop (3.6.0)
     spring (1.3.4)
-    sprockets (3.0.0)
+    sprockets (3.0.1)
       rack (~> 1.0)
     sprockets-rails (2.2.4)
       actionpack (>= 3.0)
