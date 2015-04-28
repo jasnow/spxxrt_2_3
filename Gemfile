@@ -1,8 +1,9 @@
 source 'https://rubygems.org'
 
-gem 'rails',       :git => 'git://github.com/rails/rails.git'       # Needed for Rails 5.0
-gem 'arel',        :git => 'git://github.com/rails/arel.git'        # Needed for Rails 5.0
-gem 'turbolinks',  :git => 'git://github.com/rails/turbolinks.git'  # Needed for Rails 5.0
+# Rails 5.0
+gem 'rails',       git: 'git://github.com/rails/rails.git'
+gem 'arel',        git: 'git://github.com/rails/arel.git'
+gem 'turbolinks',  git: 'git://github.com/rails/turbolinks.git'
 
 ruby '2.2.2'
 
@@ -13,11 +14,14 @@ gem 'jquery-rails'
 gem 'jbuilder'
 gem 'rails-html-sanitizer'
 gem 'sdoc', group: :doc
+gem 'overcommit'
 
 group :development, :test do
   gem 'sqlite3'
   gem 'byebug'
-  gem 'web-console', :git => 'git://github.com/rails/web-console.git' # Needed for Rails 5.0
+
+  # Needed for Rails 5.0
+  gem 'web-console', git: 'git://github.com/rails/web-console.git'
   gem 'spring'
 end
 
@@ -32,4 +36,3 @@ group :production do
   gem 'pg'
   gem 'rails_12factor'
 end
-
