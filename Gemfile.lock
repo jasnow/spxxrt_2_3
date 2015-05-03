@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 2e7fd4a8661960434ccaad71c8afb4ef26281d21
+  revision: 5f844211bebc7a974dc3ff6d67901515369c1840
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -147,7 +147,7 @@ GEM
       rails (>= 2.3.3)
     mini_portile (0.6.2)
     minitest (5.6.1)
-    minitest-reporters (1.0.12)
+    minitest-reporters (1.0.14)
       ansi
       builder
       minitest (>= 5.0)
@@ -159,7 +159,7 @@ GEM
     notiffany (0.0.6)
       nenv (~> 0.1)
       shellany (~> 0.0)
-    overcommit (0.24.0)
+    overcommit (0.25.0)
       childprocess (~> 0.5.6)
       iniparse (~> 1.4)
     pg (0.18.1)
