@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: bdc1e9c28cfdefba9aee62eb240c221f622b720d
+  revision: 41e5e8982bdff21db39b673363c42a75995d1880
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -123,7 +123,7 @@ GEM
     hitimes (1.2.2)
     i18n (0.7.0)
     iniparse (1.4.0)
-    jbuilder (2.2.13)
+    jbuilder (2.2.16)
       activesupport (>= 3.0.0, < 5)
       multi_json (~> 1.2)
     jquery-rails (4.0.3)
