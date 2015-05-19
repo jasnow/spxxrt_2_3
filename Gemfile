@@ -16,12 +16,14 @@ gem 'rails-html-sanitizer'
 gem 'sdoc', group: :doc
 gem 'overcommit'
 
+group :development do
+  # Needed for Rails 5.0
+  gem 'web-console', git: 'git://github.com/rails/web-console.git'
+end
+
 group :development, :test do
   gem 'sqlite3'
   gem 'byebug'
-
-  # Needed for Rails 5.0
-  gem 'web-console', git: 'git://github.com/rails/web-console.git'
   gem 'spring'
 end
 

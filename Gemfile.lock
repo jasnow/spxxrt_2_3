@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: b7afca19936d5bc90e9209493123f436756b2893
+  revision: ffc3b33494fde0c628bd6ffa6d9b889b1e868aae
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -70,7 +70,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/web-console.git
-  revision: 9ef07c7d546d9820fd510a271d40cf687636bd22
+  revision: d2e2eb90e746afd35b4abceef550b72323810c25
   specs:
     web-console (2.1.2)
       activemodel (>= 4.0)
