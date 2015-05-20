@@ -70,7 +70,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/web-console.git
-  revision: d2e2eb90e746afd35b4abceef550b72323810c25
+  revision: 96603d4a646e116d5fe6531e74b872dd10da440e
   specs:
     web-console (2.1.2)
       activemodel (>= 4.0)
