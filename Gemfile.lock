@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: d7cbdbef1857f1359201234e02933ba3bfed2a14
+  revision: b25436abc446c682610756af74257fd86151fb92
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -63,7 +63,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/turbolinks.git
-  revision: a2b1810a60fea0ea131eea39fae65a771f2938a9
+  revision: c0fffe0193a1327ed52fb6f022d787f596189459
   specs:
     turbolinks (3.0.0)
       coffee-rails
