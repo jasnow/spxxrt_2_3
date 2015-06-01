@@ -1,12 +1,12 @@
 GIT
   remote: git://github.com/rails/arel.git
-  revision: c7ca1568013d244b9c61147b20b4424d741e91ac
+  revision: 7442623100f5ecdd73fd8f68376431762380f4e5
   specs:
     arel (7.0.0.alpha)
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: b25436abc446c682610756af74257fd86151fb92
+  revision: 8b67f28f4ac0204190a1a47a455f2c3e5b7cde53
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -63,7 +63,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/turbolinks.git
-  revision: c0fffe0193a1327ed52fb6f022d787f596189459
+  revision: 63c78377985245704f89cb847a1758c357731257
   specs:
     turbolinks (3.0.0)
       coffee-rails
