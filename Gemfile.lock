@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 90d0b852a54bdd2cedb8304981f6c7a3d8c7a8d3
+  revision: 7e30085bd09448318b8963e96401fb12b4edcb9e
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -63,14 +63,14 @@ GIT
 
 GIT
   remote: git://github.com/rails/turbolinks.git
-  revision: 63c78377985245704f89cb847a1758c357731257
+  revision: 08865722bf2b492ddf1f90f6e32bbb6a4d044d5d
   specs:
     turbolinks (3.0.0)
       coffee-rails
 
 GIT
   remote: git://github.com/rails/web-console.git
-  revision: c9ada94a28a21960c8385d66b6223cb9e68f0a71
+  revision: 2c7479b71eb7a71d2f10977b0dded750d1e6c5d1
   specs:
     web-console (2.1.2)
       activemodel (>= 4.0)
@@ -123,7 +123,7 @@ GEM
     hitimes (1.2.2)
     i18n (0.7.0)
     iniparse (1.4.0)
-    jbuilder (2.2.16)
+    jbuilder (2.3.0)
       activesupport (>= 3.0.0, < 5)
       multi_json (~> 1.2)
     jquery-rails (4.0.3)
