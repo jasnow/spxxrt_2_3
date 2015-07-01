@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: bc6ac8609cf79f28047c0928b9433e00e6ea1f09
+  revision: 1099e54b497ec3ec08d8913f8a899681719a0e4b
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -101,7 +101,7 @@ GEM
     debug_inspector (0.0.2)
     erubis (2.7.0)
     execjs (2.5.2)
-    ffi (1.9.9)
+    ffi (1.9.10)
     formatador (0.2.5)
     globalid (0.3.5)
       activesupport (>= 4.1.0)
