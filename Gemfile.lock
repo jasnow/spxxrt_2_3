@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 626b10ef1f34fbc5595107e1cdbd3f839a46d96a
+  revision: 6cd768f9468517f0579f89fa033dc6c16b12b188
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -148,7 +148,7 @@ GEM
       builder
       minitest (>= 5.0)
       ruby-progressbar
-    multi_json (1.11.1)
+    multi_json (1.11.2)
     nenv (0.2.0)
     nokogiri (1.6.6.2)
       mini_portile (~> 0.6.0)
