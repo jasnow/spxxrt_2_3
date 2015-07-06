@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: ba400c7e88329ee70fd62bcd060389abb7dcebb2
+  revision: 472984b4d9f7afd118264676c2bd997602b1669e
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -105,7 +105,7 @@ GEM
     formatador (0.2.5)
     globalid (0.3.5)
       activesupport (>= 4.1.0)
-    guard (2.12.7)
+    guard (2.12.8)
       formatador (>= 0.2.4)
       listen (>= 2.7, <= 4.0)
       lumberjack (~> 1.0)
@@ -120,7 +120,7 @@ GEM
       minitest (>= 3.0)
     i18n (0.7.0)
     iniparse (1.4.0)
-    jbuilder (2.3.0)
+    jbuilder (2.3.1)
       activesupport (>= 3.0.0, < 5)
       multi_json (~> 1.2)
     jquery-rails (4.0.4)
