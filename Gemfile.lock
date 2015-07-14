@@ -1,12 +1,12 @@
 GIT
   remote: git://github.com/rails/arel.git
-  revision: 14df08d80fc363fb9932d9534503b3276d30d9a5
+  revision: ce1a5a73996c23fe13836eab7fa9c7e803155161
   specs:
     arel (7.0.0.alpha)
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 08e41a043218583d34e34316df82d38e4d7f1b55
+  revision: 368b9938ec9d8fbb8146e65c1edf744d32d207c9
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -155,7 +155,7 @@ GEM
     notiffany (0.0.6)
       nenv (~> 0.1)
       shellany (~> 0.0)
-    overcommit (0.26.0)
+    overcommit (0.27.0)
       childprocess (~> 0.5.6)
       iniparse (~> 1.4)
     pg (0.18.2)
