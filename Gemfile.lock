@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 3d32a50ca1933ee96abbe5db7ee99617fd0c328c
+  revision: 4b91db5b125dd7bd735e7f42eb8e2c14c0e6757e
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -71,7 +71,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/web-console.git
-  revision: 4e4696984187dac0d93cee52fd8f4f4121b8ec40
+  revision: 7b644b0024ddbb66b5b47eb99a3b6f65d5e1aac4
   specs:
     web-console (2.2.1)
       activemodel (>= 4.0)
@@ -144,7 +144,7 @@ GEM
       minitest (> 1.2.0)
       rails (>= 2.3.3)
     mini_portile (0.6.2)
-    minitest (5.7.0)
+    minitest (5.8.0)
     minitest-reporters (1.0.19)
       ansi
       builder
