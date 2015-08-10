@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 378e3a666e9ed6b0fb037a1082ff0b13b850acaa
+  revision: 8d70f40da5d358b33e90c2c1c9ece115bbb6c831
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -99,7 +99,7 @@ GEM
       execjs
     coffee-script-source (1.9.1.1)
     columnize (0.9.0)
-    concurrent-ruby (0.9.0)
+    concurrent-ruby (0.9.1)
     debug_inspector (0.0.2)
     erubis (2.7.0)
     execjs (2.5.2)
