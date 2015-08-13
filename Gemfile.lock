@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 9dbccf02c5ab5dcda2ff11eb9f840a5964dc9637
+  revision: 812375b2ccfbe5190acd06e9117467a886f91ce6
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -71,7 +71,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/web-console.git
-  revision: b561e8a47f3784aa05d0233de50dcd50bcc497b4
+  revision: 3bf8cc5dc5dc1a0ff5daf316b8f4c13ac441d0a7
   specs:
     web-console (2.2.1)
       activemodel (>= 4.0)
@@ -200,7 +200,7 @@ GEM
     shellany (0.0.1)
     slop (3.6.0)
     spring (1.3.6)
-    sprockets (3.2.0)
+    sprockets (3.3.0)
       rack (~> 1.0)
     sprockets-rails (2.3.2)
       actionpack (>= 3.0)
