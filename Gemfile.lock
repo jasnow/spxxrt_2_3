@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: cbca29a959fc0f6667d378953af31f0f0e004f55
+  revision: 2a2473fd71d75bcda68f70500178d32587700ab0
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -65,14 +65,14 @@ GIT
 
 GIT
   remote: git://github.com/rails/turbolinks.git
-  revision: 4f99d6c6c80a1e0ce2815a6a912ed9fdb9ec795e
+  revision: 747919cadc64bca640927f4cffcc08f53543bfc1
   specs:
     turbolinks (3.0.0)
       coffee-rails
 
 GIT
   remote: git://github.com/rails/web-console.git
-  revision: 264717beca40a5d96a626e706d44d2ce82e931c0
+  revision: b9ce945c860849bd89c3fa278f62ddc6183f53fc
   specs:
     web-console (2.2.1)
       activemodel (>= 4.0)
@@ -87,8 +87,7 @@ GEM
     binding_of_caller (0.7.2)
       debug_inspector (>= 0.0.1)
     builder (3.2.2)
-    byebug (5.0.0)
-      columnize (= 0.9.0)
+    byebug (6.0.0)
     childprocess (0.5.6)
       ffi (~> 1.0, >= 1.0.11)
     coderay (1.1.0)
@@ -99,7 +98,6 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.9.1.1)
-    columnize (0.9.0)
     concurrent-ruby (0.9.1)
     debug_inspector (0.0.2)
     erubis (2.7.0)
@@ -134,7 +132,7 @@ GEM
     listen (3.0.3)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
-    loofah (2.0.2)
+    loofah (2.0.3)
       nokogiri (>= 1.5.9)
     lumberjack (1.0.9)
     mail (2.6.3)
@@ -146,7 +144,7 @@ GEM
       rails (>= 2.3.3)
     mini_portile (0.6.2)
     minitest (5.8.0)
-    minitest-reporters (1.0.19)
+    minitest-reporters (1.0.20)
       ansi
       builder
       minitest (>= 5.0)
