@@ -1,14 +1,16 @@
 source 'https://rubygems.org'
 
 # Rails 5.0
-gem 'rails',       git: 'git://github.com/rails/rails.git'
-gem 'arel',        git: 'git://github.com/rails/arel.git'
-gem 'turbolinks',  git: 'git://github.com/rails/turbolinks.git'
-gem 'rack'
+gem 'rails',      git: 'git://github.com/rails/rails.git'
+gem 'arel',       git: 'git://github.com/rails/arel.git'
+gem 'turbolinks', git: 'git://github.com/rails/turbolinks.git'
+gem 'sprockets',  git: 'git://github.com/rails/sprockets.git'
+gem 'sass-rails', git: 'git://github.com/rails/sass-rails.git'
+gem 'rack',       git: 'git://github.com/rack/rack.git'
+gem 'sprockets-rails', '3.0.0.beta2'
 
 ruby '2.2.3'
 
-gem 'sass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
 gem 'jquery-rails'
