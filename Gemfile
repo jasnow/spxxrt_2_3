@@ -4,8 +4,9 @@ source 'https://rubygems.org'
 gem 'rails',       git: 'git://github.com/rails/rails.git'
 gem 'arel',        git: 'git://github.com/rails/arel.git'
 gem 'turbolinks',  git: 'git://github.com/rails/turbolinks.git'
+gem 'rack'
 
-ruby '2.2.2'
+ruby '2.2.3'
 
 gem 'sass-rails'
 gem 'uglifier'

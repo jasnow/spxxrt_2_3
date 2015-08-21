@@ -230,6 +230,7 @@ DEPENDENCIES
   minitest-reporters
   overcommit
   pg
+  rack
   rails!
   rails-html-sanitizer
   rails_12factor
@@ -240,3 +241,6 @@ DEPENDENCIES
   turbolinks!
   uglifier
   web-console!
+
+BUNDLED WITH
+   1.10.6
