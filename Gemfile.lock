@@ -13,7 +13,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 479217ca34e3eb1f86fa8e8358bdde9de16effaf
+  revision: 2ceb16e539d13bb0f130dddd630776ea13ee9597
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -82,7 +82,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/sprockets.git
-  revision: 2fd1a89b3e7eff241b87f1f2e51a813c3f172cb3
+  revision: b7ec65b434d0e44c7e2a8f80c41ca737607caa61
   specs:
     sprockets (4.0.0)
       rack (> 1, < 3)
@@ -225,7 +225,7 @@ GEM
     thread_safe (0.3.5)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
-    uglifier (2.7.1)
+    uglifier (2.7.2)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
 
