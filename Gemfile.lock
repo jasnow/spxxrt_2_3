@@ -7,13 +7,13 @@ GIT
 
 GIT
   remote: git://github.com/rails/arel.git
-  revision: d5432b4616ff43fbb14540d351eed351e21bb20e
+  revision: 64d897844c5b30657ab702293647f09dcb38a13e
   specs:
     arel (7.0.0.alpha)
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 9c8a5abb420ded3dce8c2a3e656948fb6430fb64
+  revision: 1829943943f9f52e02ca15430490a53d1a1ec0b5
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -89,7 +89,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/turbolinks.git
-  revision: 9d0e8f0a464142901b298eec11ad8d7a768a2c8b
+  revision: dc4f5f36f1c1965e6c5921f49d20fa718277f19e
   specs:
     turbolinks (3.0.0)
       coffee-rails
@@ -204,7 +204,7 @@ GEM
     rails_serve_static_assets (0.0.4)
     rails_stdout_logging (0.0.4)
     rake (10.4.2)
-    rb-fsevent (0.9.5)
+    rb-fsevent (0.9.6)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
     rdoc (4.2.0)
