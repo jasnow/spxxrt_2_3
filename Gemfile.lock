@@ -13,7 +13,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: bc1f0c2e36ee705023dcbd513d99f834f8262ea3
+  revision: 3f2267ebe3c901acfcbe92d08b9f1cfc7b93c13c
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -168,7 +168,7 @@ GEM
       rails (>= 2.3.3)
     mini_portile (0.6.2)
     minitest (5.8.0)
-    minitest-reporters (1.0.20)
+    minitest-reporters (1.1.0)
       ansi
       builder
       minitest (>= 5.0)
