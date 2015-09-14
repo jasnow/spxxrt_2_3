@@ -13,7 +13,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 89e61f0133f09b2bfa0f020039f6e92f3c21160e
+  revision: 2f0bc1f78975ecaae10f845c7d63928e748dd6a6
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -82,7 +82,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/sprockets.git
-  revision: 9675919a2733c2888a236756395f08b2294631bb
+  revision: edae5cdfa241b0fb0fcb756b25cd561c3d8b7f29
   specs:
     sprockets (4.0.0)
       rack (> 1, < 3)
@@ -96,9 +96,9 @@ GIT
 
 GIT
   remote: git://github.com/rails/web-console.git
-  revision: 487df5aad6530afb46bf68a0791d6eece918c1c0
+  revision: 82d3d0882f202a9953c8903ca825b12b4908ba70
   specs:
-    web-console (2.2.1)
+    web-console (3.0.0)
       activemodel (>= 4.0)
       binding_of_caller (>= 0.7.2)
       railties (>= 4.0)
