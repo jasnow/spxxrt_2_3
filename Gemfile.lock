@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rack/rack.git
-  revision: 3c7911b8807f6470c55cc363f31a686bda90de3d
+  revision: 6ca36dbe2eb5ff27bc49a313f38a3eef93dd3885
   specs:
     rack (2.0.0.alpha)
       json
@@ -13,7 +13,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: f860ab3f1490c7b9839211593010a0421fb8dbf6
+  revision: e19f1c3f7139d3f3f22644341d2c8241b04e6b35
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -164,7 +164,7 @@ GEM
       minitest (> 1.2.0)
       rails (>= 2.3.3)
     mini_portile (0.6.2)
-    minitest (5.8.0)
+    minitest (5.8.1)
     minitest-reporters (1.1.1)
       ansi
       builder
