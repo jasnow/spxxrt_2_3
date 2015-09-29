@@ -12,6 +12,14 @@ GIT
     arel (7.0.0.alpha)
 
 GIT
+  remote: git://github.com/rails/jbuilder.git
+  revision: eef4fbeb2675875988b44767414cb76d140a341d
+  specs:
+    jbuilder (2.3.1)
+      activesupport (>= 3.0.0, < 5)
+      multi_json (~> 1.2)
+
+GIT
   remote: git://github.com/rails/rails.git
   revision: 56625b2815d2eb1fffb40774df4cb66f34562a64
   specs:
@@ -142,9 +150,6 @@ GEM
       minitest (>= 3.0)
     i18n (0.7.0)
     iniparse (1.4.1)
-    jbuilder (2.3.1)
-      activesupport (>= 3.0.0, < 5)
-      multi_json (~> 1.2)
     jquery-rails (4.0.5)
       rails-dom-testing (~> 1.0)
       railties (>= 4.2.0)
@@ -235,7 +240,7 @@ DEPENDENCIES
   coffee-rails
   guard
   guard-minitest
-  jbuilder
+  jbuilder!
   jquery-rails
   mini_backtrace
   minitest-reporters
