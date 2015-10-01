@@ -13,15 +13,15 @@ GIT
 
 GIT
   remote: git://github.com/rails/jbuilder.git
-  revision: eef4fbeb2675875988b44767414cb76d140a341d
+  revision: 86fb406a512817ca1ada99a2b3e3f9b9cfb5d03e
   specs:
-    jbuilder (2.3.1)
+    jbuilder (2.3.2)
       activesupport (>= 3.0.0, < 5)
       multi_json (~> 1.2)
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: ff30db1372f2d6c3ac47fe5b0ffb7ca21390f3c1
+  revision: 7db7b287ecd616d61dd09147888d02b74d219dd1
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
