@@ -1,28 +1,26 @@
 source 'https://rubygems.org'
 
 # Rails 5.0
-gem 'rails',      git: 'git://github.com/rails/rails.git'
-gem 'arel',       git: 'git://github.com/rails/arel.git'
-gem 'turbolinks', git: 'git://github.com/rails/turbolinks.git'
-gem 'sprockets',  git: 'git://github.com/rails/sprockets.git'
-gem 'sass-rails', git: 'git://github.com/rails/sass-rails.git'
-gem 'jbuilder'  , git: 'git://github.com/rails/jbuilder.git'
-gem 'rack',       git: 'git://github.com/rack/rack.git'
-gem 'sprockets-rails', '3.0.0.beta2'
+gem 'rails'     , git: 'git://github.com/rails/rails.git'
+gem 'arel'      , git: 'git://github.com/rails/arel.git'
+gem 'rack'      , git: 'git://github.com/rack/rack.git'
+gem 'turbolinks', git: 'git://github.com/rails/turbolinks.git' # Needed to fix dep warnings.
 
 ruby '2.2.3'
 
 gem 'uglifier'
 gem 'coffee-rails'
 gem 'jquery-rails'
-
-gem 'rails-html-sanitizer'
-gem 'sdoc', group: :doc
+gem 'jbuilder'
 gem 'overcommit'
+gem 'rails-html-sanitizer'
+gem 'sass-rails'
+gem 'sdoc', group: :doc
+gem 'sprockets'
+gem 'sprockets-rails'
 
 group :development do
-  # Needed for Rails 5.0
-  gem 'web-console', git: 'git://github.com/rails/web-console.git'
+  gem 'web-console'
 end
 
 group :development, :test do
