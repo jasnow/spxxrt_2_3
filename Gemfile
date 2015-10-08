@@ -1,9 +1,9 @@
 source 'https://rubygems.org'
 
 # Rails 5.0
-gem 'rails'     , github: 'rails/rails'
-gem 'arel'      , github: 'rails/arel'
-gem 'rack'      , github: 'rack/rack'
+gem 'rails', github: 'rails/rails'
+gem 'arel', github: 'rails/arel'
+gem 'rack', github: 'rack/rack'
 gem 'turbolinks', github: 'rails/turbolinks' # Needed to fix dep warnings.
 
 ruby '2.2.3'
