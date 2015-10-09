@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rack/rack.git
-  revision: e836fad64ba3a79f8169ef44aa97b7004fca5e86
+  revision: 2f782ce099989e214466872c797f530b5349357d
   specs:
     rack (2.0.0.alpha)
       json
@@ -13,7 +13,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: c750ca5da8683833109b5b980d029a918c2c0989
+  revision: 64476e9194388f774a4dd2fa790e69bbd6b6a128
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -94,7 +94,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.9.1.1)
-    concurrent-ruby (1.0.0.pre3)
+    concurrent-ruby (1.0.0.pre4)
     debug_inspector (0.0.2)
     erubis (2.7.0)
     execjs (2.6.0)
