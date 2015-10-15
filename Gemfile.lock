@@ -13,7 +13,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 3ad381c3f8598d9920998c8949a96b5f62b280dd
+  revision: b6cf69ebcbf7372c61d38aa33baa7d0f4224679b
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -156,7 +156,7 @@ GEM
       childprocess (~> 0.5.6)
       iniparse (~> 1.4)
     pg (0.18.3)
-    pry (0.10.2)
+    pry (0.10.3)
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
       slop (~> 3.4)
