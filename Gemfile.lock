@@ -13,7 +13,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 16214d1108c31174c94503caced3855b0f6bad95
+  revision: 320b79f54c9ae543eeb62581611b2d36d5f66d41
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -83,7 +83,7 @@ GEM
     binding_of_caller (0.7.2)
       debug_inspector (>= 0.0.1)
     builder (3.2.2)
-    byebug (8.0.1)
+    byebug (8.1.0)
     childprocess (0.5.7)
       ffi (~> 1.0, >= 1.0.11)
     coderay (1.1.0)
@@ -193,7 +193,7 @@ GEM
       rdoc (~> 4.0)
     shellany (0.0.1)
     slop (3.6.0)
-    spring (1.4.0)
+    spring (1.4.1)
     sprockets (3.4.0)
       rack (> 1, < 3)
     sprockets-rails (2.3.3)
