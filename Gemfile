@@ -6,7 +6,7 @@ gem 'arel', github: 'rails/arel'
 gem 'rack', github: 'rack/rack'
 gem 'turbolinks', github: 'rails/turbolinks' # Needed to fix dep warnings.
 
-ruby '2.2.3'
+ruby '2.3.0'
 
 gem 'uglifier'
 gem 'coffee-rails'
