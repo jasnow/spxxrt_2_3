@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 # Rails 5.0
 gem 'rails', '5.0.0.beta2'
-gem 'turbolinks', github: 'rails/turbolinks' # Needed to fix dep warnings.
+gem 'turbolinks', '5.0.0.beta1'
 
 ruby '2.3.0'
 
