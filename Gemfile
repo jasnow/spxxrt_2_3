@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
 
-gem 'rails',      '5.0.0.rc2'
-gem 'turbolinks', '5.0.0.beta2'
+gem 'rails', '5.0.0.rc2'
 
 ruby '2.3.1'
 
+gem 'turbolinks'
 gem 'uglifier'
 gem 'coffee-rails'
 gem 'jquery-rails'
@@ -12,9 +12,10 @@ gem 'jbuilder'
 gem 'overcommit'
 gem 'rails-html-sanitizer'
 gem 'sass-rails'
-gem 'sdoc', group: :doc
 gem 'sprockets'
 gem 'sprockets-rails'
+
+gem 'sdoc', group: :doc
 
 group :development do
   gem 'web-console'
