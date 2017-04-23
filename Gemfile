@@ -15,7 +15,7 @@ gem 'sass-rails'
 gem 'sprockets'
 gem 'sprockets-rails'
 
-gem 'sdoc', '1.0.0.rc1', group: :doc # LOCKED DOWN
+gem 'sdoc', '1.0.0.rc2', group: :doc # LOCKED DOWN
 
 group :development do
   gem 'web-console'
