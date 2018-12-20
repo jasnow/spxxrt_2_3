@@ -12,7 +12,6 @@ gem 'jbuilder'
 gem 'overcommit'
 gem 'rails-html-sanitizer'
 gem 'sass-rails'
-gem 'sprockets'
 gem 'sprockets-rails'
 
 gem 'sdoc', group: :doc

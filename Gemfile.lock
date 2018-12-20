@@ -230,7 +230,6 @@ DEPENDENCIES
   sass-rails
   sdoc
   spring
-  sprockets
   sprockets-rails
   sqlite3
   turbolinks
