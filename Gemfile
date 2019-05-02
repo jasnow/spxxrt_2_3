@@ -6,7 +6,6 @@ ruby '2.6.3'
 
 gem 'turbolinks'
 gem 'uglifier'
-gem 'coffee-rails'
 gem 'jquery-rails'
 gem 'jbuilder', git: 'https://github.com/rails/jbuilder'
 gem 'overcommit'
