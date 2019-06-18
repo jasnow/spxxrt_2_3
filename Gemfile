@@ -10,7 +10,7 @@ gem 'jquery-rails'
 gem 'jbuilder'
 gem 'overcommit'
 gem 'rails-html-sanitizer'
-gem 'sass-rails'
+gem 'sassc-rails'
 gem 'sprockets-rails'
 
 gem 'sdoc', group: :doc
