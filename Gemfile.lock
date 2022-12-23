@@ -75,10 +75,10 @@ GEM
     concurrent-ruby (1.1.10)
     crass (1.0.6)
     date (3.3.3)
-    debug (1.7.0)
+    debug (1.7.1)
       irb (>= 1.5.0)
       reline (>= 0.3.1)
-    erubi (1.11.0)
+    erubi (1.12.0)
     execjs (2.8.1)
     ffi (1.15.5)
     formatador (1.1.0)
@@ -136,7 +136,7 @@ GEM
       minitest (>= 5.0)
       ruby-progressbar
     nenv (0.3.0)
-    net-imap (0.3.3)
+    net-imap (0.3.4)
       date
       net-protocol
     net-pop (0.1.2)
@@ -161,7 +161,7 @@ GEM
       method_source (~> 1.0)
     psych (5.0.1)
       stringio
-    racc (1.6.1)
+    racc (1.6.2)
     rack (2.2.4)
     rack-test (2.0.2)
       rack (>= 1.3)
