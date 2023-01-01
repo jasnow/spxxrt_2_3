@@ -124,7 +124,7 @@ GEM
       rails (>= 2.3.3)
     mini_mime (1.1.2)
     mini_portile2 (2.8.1)
-    minitest (5.16.3)
+    minitest (5.17.0)
     minitest-reporters (1.5.0)
       ansi
       builder
