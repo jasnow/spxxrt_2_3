@@ -25,6 +25,8 @@ group :development, :test do
   gem "spring"
   gem "brakeman"
   gem "standard"
+  gem "ruby_audit"
+  gem "spektr"
 end
 
 group :test do
