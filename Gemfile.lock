@@ -79,7 +79,6 @@ GEM
     concurrent-ruby (1.2.0)
     crass (1.0.6)
     date (3.3.3)
-    debug (1.7.1)
     erubi (1.12.0)
     execjs (2.8.1)
     ffi (1.15.5)
@@ -134,7 +133,7 @@ GEM
       rails (>= 2.3.3)
     mini_mime (1.1.2)
     minitest (5.17.0)
-    minitest-reporters (1.5.0)
+    minitest-reporters (1.6.0)
       ansi
       builder
       minitest (>= 5.0)
@@ -310,6 +309,7 @@ GEM
       activemodel (>= 6.0.0)
       bindex (>= 0.4.0)
       railties (>= 6.0.0)
+    webrick (1.8.1)
     websocket-driver (0.7.5)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
@@ -321,7 +321,6 @@ PLATFORMS
 
 DEPENDENCIES
   brakeman
-  debug
   guard
   guard-minitest
   jbuilder
@@ -343,6 +342,7 @@ DEPENDENCIES
   terser
   turbolinks
   web-console
+  webrick
 
 RUBY VERSION
    ruby 3.2.1p31

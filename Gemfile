@@ -12,21 +12,21 @@ gem "overcommit"
 gem "rails-html-sanitizer"
 gem "sassc-rails"
 gem "sprockets-rails"
+gem 'webrick'
 
 gem "sdoc", group: :doc
 
 group :development do
   gem "web-console"
+  gem "ruby_audit"
+  gem "spektr"
 end
 
 group :development, :test do
   gem "sqlite3"
-  gem "debug"
   gem "spring"
   gem "brakeman"
   gem "standard"
-  gem "ruby_audit"
-  gem "spektr"
 end
 
 group :test do
