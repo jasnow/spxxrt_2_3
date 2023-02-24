@@ -27,6 +27,7 @@ group :development, :test do
   gem "spring"
   gem "brakeman"
   gem "standard"
+  gem 'simplecov'
 end
 
 group :test do
