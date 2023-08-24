@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem "rails", "7.0.7.2"
 
-ruby File.read(".ruby-version")
+ruby "3.2.2"
 
 gem "turbolinks"
 gem "terser"
