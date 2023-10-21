@@ -160,7 +160,7 @@ GEM
       ruby-progressbar
     mutex_m (0.1.2)
     nenv (0.3.0)
-    net-imap (0.4.1)
+    net-imap (0.4.2)
       date
       net-protocol
     net-pop (0.1.2)
@@ -404,4 +404,4 @@ RUBY VERSION
    ruby 3.2.2p53
 
 BUNDLED WITH
-   2.4.20
+   2.4.21
