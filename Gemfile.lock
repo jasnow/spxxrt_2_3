@@ -160,7 +160,7 @@ GEM
       ruby-progressbar
     mutex_m (0.1.2)
     nenv (0.3.0)
-    net-imap (0.4.2)
+    net-imap (0.4.3)
       date
       net-protocol
     net-pop (0.1.2)
@@ -195,7 +195,7 @@ GEM
       method_source (~> 1.0)
     psych (5.1.1.1)
       stringio
-    racc (1.7.1)
+    racc (1.7.2)
     rack (3.0.8)
     rack-session (2.0.0)
       rack (>= 3.0.0)
