@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem "rails", "7.2.1"
 
-ruby "3.2.5"
+ruby "3.3.5"
 
 gem "turbolinks"
 gem "terser"
