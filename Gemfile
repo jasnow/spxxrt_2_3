@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem "rails", "8.0.0.beta1"
 
-ruby "3.3.5"
+ruby "3.4.0-preview2"
 
 gem "turbolinks"
 gem "terser"
