@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "rails", "8.0.0.1"
+gem "rails", "8.0.1"
 
 ruby "3.4.0-preview2"
 
