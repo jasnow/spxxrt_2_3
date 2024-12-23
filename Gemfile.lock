@@ -160,7 +160,7 @@ GEM
       minitest (>= 5.0)
       ruby-progressbar
     nenv (0.3.0)
-    net-imap (0.5.3)
+    net-imap (0.5.4)
       date
       net-protocol
     net-pop (0.1.2)
