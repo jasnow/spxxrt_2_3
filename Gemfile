@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem "rails", "8.0.1"
 
-ruby "3.4.0-rc1"
+ruby File.read(".ruby-version")
 
 gem "turbolinks"
 gem "terser"
@@ -19,7 +19,6 @@ gem "sdoc", group: :doc
 group :development do
   gem "web-console"
   gem "ruby_audit"
-  gem "spektr"
 end
 
 group :development, :test do
