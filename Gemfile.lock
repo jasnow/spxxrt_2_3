@@ -107,7 +107,7 @@ GEM
     ffi (1.17.2-x86_64-linux-musl)
     formatador (1.2.1)
       reline
-    globalid (1.2.1)
+    globalid (1.3.0)
       activesupport (>= 6.1)
     guard (2.19.1)
       formatador (>= 0.2.4)
@@ -305,7 +305,7 @@ GEM
       sprockets (> 3.0)
       sprockets-rails
       tilt
-    sdoc (2.6.3)
+    sdoc (2.6.4)
       rdoc (>= 5.0)
     securerandom (0.4.1)
     shellany (0.0.1)
