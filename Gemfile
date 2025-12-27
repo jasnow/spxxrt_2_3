@@ -30,9 +30,8 @@ group :development, :test do
 end
 
 group :test do
-  gem "minitest", "< 6.0.0"
+  gem "minitest"
   gem "minitest-reporters"
-  gem "mini_backtrace"
   gem "guard-minitest"
   gem "guard"
 end
