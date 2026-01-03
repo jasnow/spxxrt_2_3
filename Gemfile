@@ -18,7 +18,6 @@ gem "sdoc", group: :doc
 
 group :development do
   gem "web-console"
-  gem "ruby_audit"
 end
 
 group :development, :test do
